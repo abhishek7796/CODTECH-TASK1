@@ -1,4 +1,4 @@
-![Task 1 Remix IDE SS](https://github.com/abhishek7796/CODTECH-TASK1/assets/120003948/19b918e4-7334-4499-b117-c4c2d9432991)# CODTECH-TASK1
+# CODTECH-TASK1
 INTERNSHIP TASK 1
 
 1. Prerequisites
@@ -27,7 +27,7 @@ Open Remix IDE: Go to Remix IDE.
 Create a New File: Click on the file explorer icon, then click on the "New File" button. Name it SimpleStorage.sol.
 Write the Contract:
 Contract written in file name SmartContract
-
+![Task 1 Remix IDE SS](https://github.com/abhishek7796/CODTECH-TASK1/assets/120003948/19b918e4-7334-4499-b117-c4c2d9432991)
 
 4. Compiling the Contract
 Select the Compiler Version: In Remix, go to the "Solidity Compiler" tab and select version 0.8.0 or any compatible version.
