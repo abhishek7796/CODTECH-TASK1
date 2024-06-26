@@ -43,3 +43,5 @@ View Deployed Contracts: After deployment, you’ll see the deployed contract in
 Interact:
 Use the "set" function to store a value.
 Use the "get" function to retrieve the stored value.
+![Task 1 Remix IDE Deploy SS ](https://github.com/abhishek7796/CODTECH-TASK1/assets/120003948/087906a2-476f-457f-82aa-3982a80d6b00)
+
