@@ -10,6 +10,7 @@ Create and deploy a basic smart contract on the Ethereum blockchain using
 Solidity. This project helps you understand the basics of smart contracts and
 the Ethereum network. Deploy the contract on an Ethereum test network using
 tools like Remix and MetaMask.
+
 Overview of the Project:-
 
 # CODTECH-TASK1
